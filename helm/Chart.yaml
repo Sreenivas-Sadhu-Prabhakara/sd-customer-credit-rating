@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-credit-rating
+description: "BIAN Service Domain: Customer Credit Rating (Assess pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - assess
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Credit Risk"
+  bian/asset-type: "Credit Rating"
+  bian/control-record: "Credit Rating Assessment"
